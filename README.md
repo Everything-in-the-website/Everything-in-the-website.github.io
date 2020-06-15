@@ -1,5 +1,4 @@
 <!html lang="en-US">
-<html>
 <head>
 <meta charset="UTF-8">
 <title> My website </title>
